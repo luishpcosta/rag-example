@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1f9618a5-aa67-45c6-81f3-c5c10c611fa1",
+    "name": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "synopsis": "A guide to writing clean code that is easy to understand, maintain, and modify. Covers principles, patterns, and practices for improving code quality."
+  },
+  {
+    "id": "79e3c64a-af58-4b52-8b12-5fb2b591f5fc",
+    "name": "Design Patterns: Elements of Reusable Object-Oriented Software",
+    "author": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+    "synopsis": "Classic book on design patterns, providing solutions to common software design problems. Includes examples in Java."
+  },
+  {
+    "id": "7d43f08b-93a7-4467-91d4-2526b99eeff2",
+    "name": "Code Complete: A Practical Handbook of Software Construction",
+    "author": "Steve McConnell",
+    "synopsis": "Covers best practices and techniques for writing high-quality code. Addresses design, construction, testing, and maintenance."
+  },
+  {
+    "id": "dcb7819b-f306-4d2d-a5e1-37e0c85ad004",
+    "name": "The Pragmatic Programmer: Your Journey to Mastery",
+    "author": "Andrew Hunt, David Thomas",
+    "synopsis": "Offers practical advice for improving coding skills and becoming a better developer. Covers topics like code organization, debugging, and testing."
+  },
+  {
+    "id": "fe0eb08a-f9ad-484a-89c4-4280a7d8f286",
+    "name": "Refactoring: Improving the Design of Existing Code",
+    "author": "Martin Fowler",
+    "synopsis": "Explains the process of refactoring code to improve its design, readability, and maintainability. Offers practical techniques and examples."
+  },
+  {
+    "id": "122326a3-857f-4db3-a1c6-dfb0e7d6b17b",
+    "name": "The Mythical Man-Month: Essays on Software Engineering",
+    "author": "Frederick P. Brooks Jr.",
+    "synopsis": "A collection of essays on software engineering, discussing project management, scheduling, and the challenges of large-scale development."
+  },
+  {
+    "id": "1416fd28-46ef-42c7-aa95-11b2ad009019",
+    "name": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+    "author": "Eric Evans",
+    "synopsis": "Introduces domain-driven design principles and patterns for building complex software systems. Emphasizes collaboration between domain experts and developers."
+  },
+  {
+    "id": "c59049ed-1861-4aa7-8d85-50bc212db08d",
+    "name": "Test Driven Development: By Example",
+    "author": "Kent Beck",
+    "synopsis": "Demonstrates the principles and practices of test-driven development (TDD) through practical examples in Java."
+  },
+  {
+    "id": "a22b9c9e-2eaf-4c78-920a-6ff7782cc11e",
+    "name": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
+    "author": "Jez Humble, David Farley",
+    "synopsis": "Explores techniques for achieving continuous delivery, focusing on automation, collaboration, and feedback loops."
+  },
+  {
+    "id": "6ad465e0-3d29-45b7-a7f0-ff9cb37c59b8",
+    "name": "Effective Java",
+    "author": "Joshua Bloch",
+    "synopsis": "Covers best practices and advanced techniques for writing effective Java code. Includes updated examples for Java 8 and beyond."
+  },
+  {
+    "id": "b4e63bbd-d08e-47c0-b3a1-d20b6f499e54",
+    "name": "Patterns of Enterprise Application Architecture",
+    "author": "Martin Fowler",
+    "synopsis": "Examines patterns and principles for designing enterprise-level software applications. Discusses architectural styles, patterns, and anti-patterns."
+  },
+  {
+    "id": "2406c8a2-0db0-40d2-9ccf-1f5646ff4621",
+    "name": "Head First Design Patterns",
+    "author": "Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra",
+    "synopsis": "Presents design patterns in a visual and engaging format, making them easier to understand and apply. Includes examples in Java."
+  },
+  {
+    "id": "e7943b47-837b-4eaf-befb-d71f0b8ec953",
+    "name": "The Art of Computer Programming",
+    "author": "Donald E. Knuth",
+    "synopsis": "A comprehensive multi-volume work on computer programming, covering algorithms, data structures, and mathematical concepts."
+  },
+  {
+    "id": "e05e1983-688d-4374-95c4-37d97964f0b1",
+    "name": "Structure and Interpretation of Computer Programs",
+    "author": "Harold Abelson, Gerald Jay Sussman, Julie Sussman",
+    "synopsis": "Introduces fundamental concepts of computer science and programming. Covers abstraction, recursion, and higher-order procedures."
+  },
+  {
+    "id": "db6d3e15-4d4f-4ad8-b55a-5d098e6b80e1",
+    "name": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+    "synopsis": "A comprehensive textbook on algorithms, covering design techniques, analysis, and implementation. Includes pseudocode and real-world examples."
+  },
+  {
+    "id": "d1a2a747-15cd-4e41-a004-9af13de208f1",
+    "name": "Cracking the Coding Interview: 189 Programming Questions and Solutions",
+    "author": "Gayle Laakmann McDowell",
+    "synopsis": "Prepares readers for technical interviews with practice questions and solutions covering data structures, algorithms, and problem-solving."
+  }
+]
