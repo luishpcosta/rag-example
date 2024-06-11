@@ -29,7 +29,7 @@ cd rag-example
 
 Windows (Command Prompt):
 ```sh
-set OPENAI_API_KEY=your_api_key
+set OPENAI_KEY=your_api_key
 ```
 
 Linux / macOS:
